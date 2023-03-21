@@ -688,7 +688,7 @@ p {
   color: #fff !important; }
 
 .font-pink {
-  color: #E91E63 !important; }
+  color: #F6E1C3 !important; }
 
 .font-indigo {
   color: #3F51B5 !important; }
@@ -973,7 +973,7 @@ blockquote {
   position: fixed;
   left: 0;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
-  background: #fff; }
+  background: #FFF2CC; }
   .mdl-layout__header .mdl-layout__header-row .mdl-navigation li {
     cursor: pointer; }
   .mdl-layout__header .mdl-layout__header-row .mdl-navigation .mdl-navigation__link {
@@ -1148,7 +1148,7 @@ blockquote {
       background-size: cover;
       cursor: pointer; }
       .mdl-layout__drawer-right .hero-switcher-wrap ul li#imbg_1 {
-        background-image: url("../img/img-bg-1.jpg"); }
+        background-image: url("https://res.cloudinary.com/dpc1orjut/image/upload/v1679395721/JU%20Verve/72785143_2659353324128446_7433947040299123006_n_x9bnh2.jpg"); }
       .mdl-layout__drawer-right .hero-switcher-wrap ul li#imbg_2 {
         background-image: url("../img/img-bg-2.jpg"); }
       .mdl-layout__drawer-right .hero-switcher-wrap ul li#imbg_3 {
@@ -1205,7 +1205,7 @@ blockquote {
   left: 0;
   top: 0; }
   .bg-struct.bg-img {
-    background: url("../img/img-bg-1.jpg");
+    background: url("https://res.cloudinary.com/dpc1orjut/image/upload/v1679395721/JU%20Verve/72785143_2659353324128446_7433947040299123006_n_x9bnh2.jpg");
     background-position: center;
     background-size: cover; }
   .bg-struct .bg-img-overlay {
@@ -1260,15 +1260,15 @@ blockquote {
   background-size: cover;
   background-position: center; }
 .about-sec .item:nth-child(1) {
-  background: url(../img/gallery-1.jpg);
+  background: url("https://res.cloudinary.com/dpc1orjut/image/upload/v1679395722/JU%20Verve/71338347_2955076077840636_2270599292254855054_n_bm8mr7.jpg");
   background-size: cover;
   background-position: center; }
 .about-sec .item:nth-child(2) {
-  background: url(../img/gallery-2.jpg);
+  background: url("https://res.cloudinary.com/dpc1orjut/image/upload/v1679396429/JU%20Verve/WhatsApp_Image_2023-03-21_at_4.22.10_PM_galoyq.jpg");
   background-size: cover;
   background-position: center; }
 .about-sec .item:nth-child(3) {
-  background: url(../img/gallery-3.jpg);
+  background: url("https://res.cloudinary.com/dpc1orjut/image/upload/v1679398470/JU%20Verve/WhatsApp_Image_2023-03-21_at_4.36.21_PM_zaib9v.jpg");
   background-size: cover;
   background-position: center; }
 .about-sec .about-overlay {
