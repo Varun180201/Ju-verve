@@ -103,7 +103,7 @@ i:focus {
   outline: none; }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #444; }
+  color: #000; }
 
 h1 {
   font-size: 42px;
@@ -679,7 +679,7 @@ p {
   font-weight: 700; }
 
 .font-dark {
-  color: #444 !important; }
+  color: #000 !important; }
 
 .font-grey {
   color: #848484 !important; }
@@ -789,7 +789,7 @@ p {
 blockquote {
   background: transparent none repeat scroll 0 0;
   border: medium none;
-  color: #444;
+  color: #000;
   font-size: 18px;
   font-style: normal;
   font-weight: 500;
@@ -804,7 +804,7 @@ blockquote {
 
 .ref-name {
   text-transform: capitalize;
-  color: #444; }
+  color: #000; }
 
 .ref-desgn {
   font-size: 14px; }
@@ -902,7 +902,7 @@ blockquote {
   padding: 3px 20px;
   font-weight: 400; }
   .mdl-button.view-more {
-    color: #444; }
+    color: #000; }
 
 .mdl-button--fab {
   height: 56px;
@@ -922,7 +922,7 @@ blockquote {
 
 .mdl-menu__item > a {
   display: block;
-  color: #444; }
+  color: #000; }
 
 .mdl-card {
   width: auto;
@@ -939,7 +939,7 @@ blockquote {
 
 .mdl-card__title {
   display: block;
-  color: #444; }
+  color: #000; }
 
 .mdl-card__supporting-text {
   padding: 20px;
@@ -949,14 +949,14 @@ blockquote {
 
 .mdl-tooltip {
   text-transform: capitalize;
-  background: #444;
+  background: #000;
   font-weight: 400;
   font-size: 12px; }
 
 /*Header*/
 .mdl-layout__title, .mdl-layout-title {
   text-transform: capitalize;
-  color: #444;
+  color: #000;
   font-weight: 700; }
 
 .mdl-layout__container {
@@ -977,7 +977,7 @@ blockquote {
   .mdl-layout__header .mdl-layout__header-row .mdl-navigation li {
     cursor: pointer; }
   .mdl-layout__header .mdl-layout__header-row .mdl-navigation .mdl-navigation__link {
-    color: #444;
+    color: #000;
     text-transform: capitalize;
     padding: 0 15px;
     position: relative;
@@ -1008,11 +1008,11 @@ blockquote {
     .mdl-layout__header .mdl-layout__header-row .mdl-navigation li.active .mdl-navigation__link:after {
       width: 100%; }
   .mdl-layout__header .mdl-layout__drawer-button {
-    color: #444; }
+    color: #000; }
     .mdl-layout__header .mdl-layout__drawer-button:focus {
       outline: none; }
   .mdl-layout__header .mdl-button--icon.ver-more-btn {
-    color: #444; }
+    color: #000; }
 
 .mdl-layout__obfuscator {
   background-color: transparent; }
@@ -1122,7 +1122,7 @@ blockquote {
         margin-right: 15px;
         text-transform: capitalize;
         width: 120px;
-        color: #444; }
+        color: #000; }
       .mdl-layout__drawer-right .layout-switcher-wrap ul li .layout-switcher {
         display: inline-block; }
   .mdl-layout__drawer-right .hero-switcher-wrap {
@@ -1131,7 +1131,7 @@ blockquote {
     .mdl-layout__drawer-right .hero-switcher-wrap .hero-switcher-title {
       font-size: 16px;
       text-transform: uppercase;
-      color: #444;
+      color: #000;
       margin-bottom: 25px;
       display: block; }
     .mdl-layout__drawer-right .hero-switcher-wrap .hero-switcher-cat-title {
@@ -1331,7 +1331,7 @@ blockquote {
       width: 150px;
       margin-right: 20px;
       text-transform: capitalize;
-      color: #444; }
+      color: #000; }
   .about-sec .about-content-wrap .datepicker {
     position: absolute;
     z-index: 4;
@@ -1396,7 +1396,7 @@ blockquote {
     .about-sec .about-content-wrap .datepicker .ui-state-default, .about-sec .about-content-wrap .datepicker .ui-widget-content .ui-state-default, .about-sec .about-content-wrap .datepicker .ui-widget-header .ui-state-default, .about-sec .about-content-wrap .datepicker .ui-button, .about-sec .about-content-wrap .datepicker html .ui-button.ui-state-disabled:hover, .about-sec .about-content-wrap .datepicker html .ui-button.ui-state-disabled:active {
       background: transparent none repeat scroll 0 0;
       border: none;
-      color: #444;
+      color: #000;
       display: table-cell;
       padding: 0;
       vertical-align: middle;
@@ -1421,7 +1421,7 @@ blockquote {
     padding: 11px;
     width: 20em; }
   .about-sec .about-content-wrap .ui-widget-header {
-    color: #444; }
+    color: #000; }
   .about-sec .about-content-wrap .ui-widget-content {
     color: #848484; }
 .about-sec #datepicklayer {
@@ -1471,7 +1471,7 @@ blockquote {
   .booking-form .mdl-radio.is-upgraded:last-child, .registration-form .mdl-radio.is-upgraded:last-child {
     padding-right: 0; }
 .booking-form .mdl-radio__label, .registration-form .mdl-radio__label {
-  color: #444;
+  color: #000;
   display: inline-block;
   font-size: 15px;
   text-transform: capitalize; }
@@ -1571,11 +1571,11 @@ blockquote {
   .nav-tabs > li.active > a {
     background: transparent;
     border: 1px solid transparent;
-    color: #444; }
+    color: #000; }
     .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
       background: transparent;
       border: 1px solid transparent;
-      color: #444; }
+      color: #000; }
 
 .timeline {
   list-style: none;
@@ -1603,7 +1603,7 @@ blockquote {
       float: left;
       position: relative; }
       .timeline > li > .timeline-panel .institution {
-        color: #444; }
+        color: #000; }
       .timeline > li > .timeline-panel .institution, .timeline > li > .timeline-panel .duration {
         display: block;
         font-size: 14px;
@@ -1962,7 +1962,7 @@ blockquote {
   display: block;
   margin-bottom: 5px;
   text-transform: capitalize;
-  color: #444; }
+  color: #000; }
 .blog-detail .comment-date, .project-detail .comment-date {
   display: inline-block;
   font-size: 13px;
