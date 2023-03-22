@@ -1685,22 +1685,34 @@ blockquote {
     height: 230px;
     width: 100%; }
     .speaker-sec .mdl-card .mdl-card__title .speaker-img.speaker-1 {
-      background: transparent url("../img/sp1.jpg") repeat scroll center center/cover; }
+      background: transparent url("https://res.cloudinary.com/dpc1orjut/image/upload/v1679464127/team/Ashmit_dkhtpp.jpg") repeat scroll center center/cover; }
     .speaker-sec .mdl-card .mdl-card__title .speaker-img.speaker-2 {
-      background: transparent url("../img/sp2.jpg") repeat scroll center center/cover; }
+      background: transparent url("https://res.cloudinary.com/dpc1orjut/image/upload/c_crop,h_1000,x_50,y_-300/v1679466989/team/karan_kmqmgh.jpg") repeat scroll center center/cover; }
     .speaker-sec .mdl-card .mdl-card__title .speaker-img.speaker-3 {
-      background: transparent url("../img/sp3.jpg") repeat scroll center center/cover; }
+      background: transparent url("https://res.cloudinary.com/dpc1orjut/image/upload/c_crop,h_8000,x_50,y_-100/v1679464846/team/Raj_mti3da.jpg") repeat scroll center center/cover; }
     .speaker-sec .mdl-card .mdl-card__title .speaker-img.speaker-4 {
-      background: transparent url("../img/sp4.jpg") repeat scroll center center/cover; }
+      background: transparent url("https://res.cloudinary.com/dpc1orjut/image/upload/v1679464108/team/Aditya_pmlxs7.jpg") repeat scroll center center/cover; }
     .speaker-sec .mdl-card .mdl-card__title .speaker-img.speaker-5 {
-      background: transparent url("../img/sp5.jpg") repeat scroll center center/cover; }
+      background: transparent url("https://res.cloudinary.com/dpc1orjut/image/upload/v1679464112/team/Surya_rz6fct.jpg") repeat scroll center center/cover; }
     .speaker-sec .mdl-card .mdl-card__title .speaker-img.speaker-6 {
-      background: transparent url("../img/sp6.jpg") repeat scroll center center/cover; }
+      background: transparent url("https://res.cloudinary.com/dpc1orjut/image/upload/v1679464128/team/Rakshita_Parihar_qkxixv.jpg") repeat scroll center center/cover; }
     .speaker-sec .mdl-card .mdl-card__title .speaker-img.speaker-7 {
-      background: transparent url("../img/sp7.jpg") repeat scroll center center/cover; }
+      background: transparent url("https://res.cloudinary.com/dpc1orjut/image/upload/v1679465576/team/varun_zrfvtj.jpg") repeat scroll center center/cover; }
     .speaker-sec .mdl-card .mdl-card__title .speaker-img.speaker-8 {
-      background: transparent url("../img/sp8.jpg") repeat scroll center center/cover; }
-  .speaker-sec .mdl-card .mdl-card__title .speaker-overlay {
+      background: transparent url("https://res.cloudinary.com/dpc1orjut/image/upload/v1679465858/team/WhatsApp_Image_2023-03-22_at_11.46.08_AM_wuoe0v.jpg") repeat scroll center center/cover; }
+    .speaker-sec .mdl-card .mdl-card__title .speaker-img.speaker-9 {
+    background: transparent url("https://res.cloudinary.com/dpc1orjut/image/upload/c_crop,h_4000,x_269,y_-1000/v1679466431/team/Nandini__apfced.jpg") repeat scroll center center/cover; }
+    .speaker-sec .mdl-card .mdl-card__title .speaker-img.speaker-10 {
+    background: transparent url("https://res.cloudinary.com/dpc1orjut/image/upload/v1679464121/team/Ayush_rjhoww.jpg") repeat scroll center center/cover; }
+    .speaker-sec .mdl-card .mdl-card__title .speaker-img.speaker-11 {
+    background: transparent url("https://res.cloudinary.com/dpc1orjut/image/upload/v1679464102/team/IMG_20230210_102200_742_vyqod9.webp") repeat scroll center center/cover; }
+    .speaker-sec .mdl-card .mdl-card__title .speaker-img.speaker-12 {
+      background: transparent url("https://res.cloudinary.com/dpc1orjut/image/upload/v1679469441/team/IMG_20230320_164135_999_lox1at.jpg") repeat scroll center center/cover; }
+    .speaker-sec .mdl-card .mdl-card__title .speaker-img.speaker-13 {
+    background: transparent url("https://res.cloudinary.com/dpc1orjut/image/upload/v1679464162/team/Shristi_hmbrvq.jpg") repeat scroll center center/cover; }
+    .speaker-sec .mdl-card .mdl-card__title .speaker-img.speaker-14 {
+      background: transparent url("https://res.cloudinary.com/dpc1orjut/image/upload/c_crop,w_2524/v1679470118/team/Photo_1_nvehm6.png") repeat scroll center center/cover; }
+    .speaker-sec .mdl-card .mdl-card__title .speaker-overlay {
     background: #fff;
     height: 100%;
     left: 0;
