@@ -1205,14 +1205,14 @@ blockquote {
   left: 0;
   top: 0; }
   .bg-struct.bg-img {
-    background: url("https://res.cloudinary.com/dpc1orjut/image/upload/v1679395721/JU%20Verve/72785143_2659353324128446_7433947040299123006_n_x9bnh2.jpg");
+    background: url("https://res.cloudinary.com/dpc1orjut/image/upload/v1679648538/JU%20Verve/Untitled_design_2.png");
     background-position: center;
     background-size: cover; }
   .bg-struct .bg-img-overlay {
     background: #333 none repeat scroll 0 0;
     height: 100%;
     left: 0;
-    opacity: 0.7;
+    opacity: 0;
     position: absolute;
     top: 0;
     width: 100%; }
@@ -1712,7 +1712,9 @@ blockquote {
     background: transparent url("https://res.cloudinary.com/dpc1orjut/image/upload/v1679464162/team/Shristi_hmbrvq.jpg") repeat scroll center center/cover; }
     .speaker-sec .mdl-card .mdl-card__title .speaker-img.speaker-14 {
       background: transparent url("https://res.cloudinary.com/dpc1orjut/image/upload/c_crop,w_2524/v1679470118/team/Photo_1_nvehm6.png") repeat scroll center center/cover; }
-    .speaker-sec .mdl-card .mdl-card__title .speaker-overlay {
+      .speaker-sec .mdl-card .mdl-card__title .speaker-img.speaker-15 {
+        background: transparent url("https://res.cloudinary.com/dpc1orjut/image/upload/c_crop,w_950,x_447,y_150/v1679646026/team/IMG_20221208_19131224_cp1fww.jpg") repeat scroll center center/cover; }
+      .speaker-sec .mdl-card .mdl-card__title .speaker-overlay {
     background: #fff;
     height: 100%;
     left: 0;
