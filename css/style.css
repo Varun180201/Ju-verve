@@ -1714,7 +1714,11 @@ blockquote {
       background: transparent url("https://res.cloudinary.com/dpc1orjut/image/upload/c_crop,w_2524/v1679470118/team/Photo_1_nvehm6.png") repeat scroll center center/cover; }
       .speaker-sec .mdl-card .mdl-card__title .speaker-img.speaker-15 {
         background: transparent url("https://res.cloudinary.com/dpc1orjut/image/upload/c_crop,w_950,x_447,y_150/v1679646026/team/IMG_20221208_19131224_cp1fww.jpg") repeat scroll center center/cover; }
-      .speaker-sec .mdl-card .mdl-card__title .speaker-overlay {
+        .speaker-sec .mdl-card .mdl-card__title .speaker-img.speaker-16 {
+          background: transparent url("https://res.cloudinary.com/dpc1orjut/image/upload/v1679908163/1670427487276_sjgxwr.jpg") repeat scroll center center/cover; }
+          .speaker-sec .mdl-card .mdl-card__title .speaker-img.speaker-17 {
+            background: transparent url("https://res.cloudinary.com/dpc1orjut/image/upload/v1679908118/WhatsApp_Image_2023-03-27_at_2.37.43_PM_rtviaz.jpg") repeat scroll center center/cover; }
+          .speaker-sec .mdl-card .mdl-card__title .speaker-overlay {
     background: #fff;
     height: 100%;
     left: 0;
