@@ -2008,15 +2008,15 @@ blockquote {
   background-size: cover;
   background-position: center; }
 .blog-detail .item:nth-child(1), .project-detail .item:nth-child(1) {
-  background: url(../img/gallery1.jpg);
+  background: url(https://res.cloudinary.com/dpc1orjut/image/upload/v1679909045/gallery/IMG-20230324-WA0032_fs7lti.jpg);
   background-size: cover;
   background-position: center; }
 .blog-detail .item:nth-child(2), .project-detail .item:nth-child(2) {
-  background: url(../img/gallery2.jpg);
+  background: url(https://res.cloudinary.com/dpc1orjut/image/upload/v1679908718/gallery/IMG-20230324-WA0037_fdun1i.jpg);
   background-size: cover;
   background-position: center; }
 .blog-detail .item:nth-child(3), .project-detail .item:nth-child(3) {
-  background: url(../img/gallery3.jpg);
+  background: url(https://res.cloudinary.com/dpc1orjut/image/upload/v1679908718/gallery/IMG-20230324-WA0004_bwidke.jpg);
   background-size: cover;
   background-position: center; }
 
@@ -2038,6 +2038,9 @@ blockquote {
   background: url(../img/gallery6.jpg);
   background-size: cover;
   background-position: center; }
+
+
+
 
 /****************************/
 /** Mediaqueries **/
